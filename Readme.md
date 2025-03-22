@@ -24,3 +24,5 @@
 4.    Performance – Entry and exit should be processed within a few seconds.
 5.    Security – Secure payment handling and data encryption.
 6.    Maintainability – Modular and extendable architecture.
+
+  ![Image](https://github.com/user-attachments/assets/1815e16d-3fb6-4f1e-8c84-0f9daae238ea)
